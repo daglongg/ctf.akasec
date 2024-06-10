@@ -40,4 +40,8 @@ Sử dụng IDA để phân tích tĩnh file.
 
 Đặt các bp để vượt qua antidbg ta có flag là `akasec{sh1tty_p4ck3d_b1n4ry}`
 
+# Paranoia
+
+![image](https://github.com/daglongg/ctf.akasec/assets/138242812/8e5f0ea8-5ef5-4ffd-a37a-baea40594374)
+
 
