@@ -356,6 +356,7 @@ for i in inp:
 
 print(flag)
 ```
+Và tôi có flag là `akasec{1n_my_b4g_0n3_s3c0nd_0n3}`
 
 
 
