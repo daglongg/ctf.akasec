@@ -28,6 +28,18 @@ Tiếp tục theo luồng trên tôi thấy ở dòng 63 có đường link gith
 
 ![image](https://github.com/daglongg/ctf.akasec/assets/138242812/a34500ca-6504-4bb7-917e-ba3f8e2dc0db)
 
+Ở đây tôi đã check tất cả các repo và nhận ra trong repo Minishell có 2 cái commit. 
+
+![image](https://github.com/daglongg/ctf.akasec/assets/138242812/93210de5-0ce0-40f0-8292-2729cbf1ac76)
+
+Kiểm tra chúng thì tôi phát hiện ở commit của `l3rnds`, các chữu cái đầu có vẻ là `akasec`
+
+![image](https://github.com/daglongg/ctf.akasec/assets/138242812/37562d33-363b-47af-ad27-4f0d84e7a191)
+
+Và flag ở đây là `AKASEC{H1dd3n_fl4g_1n_C0mM!t5_1snT_Th4t_HARD_hh}`
+
+
+
 
 
 
